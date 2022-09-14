@@ -12,8 +12,7 @@
           ├── full moon/
           ├── first quarter moon/
           ├── dark moon/
-          ├── crescent moon/
-          └── total/
+          └── crescent moon/
     ```
     
   - Download dataset from
