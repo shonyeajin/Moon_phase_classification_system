@@ -1,8 +1,5 @@
 # Moon_phase_classification_system 🌛
-
-
-## Introduction
-  **Moon Phase Classification System** source code archive
+**Moon Phase Classification System** source code archive
   
 ## Installation & Data preparation
   - Clone this repository
