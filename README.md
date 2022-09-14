@@ -30,7 +30,7 @@
   
 
 ## 제안 방법
-![제안방법](https://user-images.githubusercontent.com/55689863/189947587-5b2276d5-a5a6-4361-b601-7aed400c2032.png)
+![제안방법](https://user-images.githubusercontent.com/55689863/190143267-a8011093-4ecd-4db1-8ba7-610dcd895430.png)
 
 ## 개발환경
 colab
