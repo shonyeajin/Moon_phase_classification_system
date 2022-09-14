@@ -25,14 +25,8 @@
 
 
 ## Run
- 1. How to train
-    - data.yaml 'train', 'val', 'test' 경로 수정하기
-    - cd yolov5
-    - python train.py --img 416 --batch 16 --epoch 50 --data ../data.yaml --cfg ./models/yolov5s.yaml --weights yolov5s.pt --name [결과 파일 이름]
-
- 2. 크롭 이미지 생성하기 -> crop.py 실행
- 3. 유사도 비교하기 -> similarity.py 실행
- 4. 데이터 분포 확인하기 -> eda.py 실행
+ 1. 달 데이터의 평균 및 표준편차를 이용한 시각화 -> avg_std_plot.py 실행하기
+ 2. VGG-16, VGG-19, ResNet50, Inception V3, DenseNet121, NasNetLarge, MobileNetV3Large, (Our proposal) VGG16 + VGG19, (Our proposal) VGG16 + VGG19 + DenseNet121 모델들을 build, train, validate, test -> train.py 실행하기
   
 
 ## 제안 방법
