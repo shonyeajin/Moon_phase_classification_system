@@ -6,7 +6,7 @@
   
   - Organize them as following:
     ```
-    Contaminant_Discrimination/
+    Moon_phase_classification_system/
       └── data
           ├── last quarter moon/
           ├── full moon/
